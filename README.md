@@ -9,6 +9,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./my_algorithms/cpp/Two_Sum/Two_Sum.cpp)|Easy|
 |2|[Add_Two Numbers](https://leetcode.com/problems/add-tow-numbers/)| [C++](./my_algorithms/cpp/Add_Two_Numbers/Add_Two_Numbers.cpp)|Easy|
+|3|[Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./my_algorithms/cpp/Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
+
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 2. others solution 
