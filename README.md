@@ -8,7 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./my_algorithms/cpp/Two_Sum/Two_Sum.cpp)|Easy|
-
+|2|[Add_Two Numbers](https://leetcode.com/problems/add-tow-numbers/)| [C++](./my_algorithms/cpp/Add_Two_Numbers/Add_Two_Numbers.cpp)|Easy|
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 2. others solution 
