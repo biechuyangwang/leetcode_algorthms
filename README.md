@@ -3,8 +3,15 @@ LeetCode
 
 ### LeetCode Algorithm
 
+1. my solution 
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./my_algorithms/cpp/Two_Sum/Two_Sum.cpp)|Easy|
+
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
+2. others solution 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
