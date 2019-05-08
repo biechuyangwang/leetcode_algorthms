@@ -2,8 +2,12 @@ LeetCode
 ========
 
 ### LeetCode Algorithm
+1. some interview
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/261/before-you-start/1106/)| [C++](./my_algorithms/cpp/Number_Only_Once/solution.cpp)|Easy|
 
-1. my solution 
+2. my solution 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -11,9 +15,11 @@ LeetCode
 |2|[Add_Two Numbers](https://leetcode.com/problems/add-tow-numbers/)| [C++](./my_algorithms/cpp/Add_Two_Numbers/Add_Two_Numbers.cpp)|Easy|
 |3|[Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./my_algorithms/cpp/Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
 
+
+
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
-2. others solution 
+3. others solution 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
