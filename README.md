@@ -3,6 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 1. some interview
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/261/before-you-start/1106/)| [C++](./my_algorithms/cpp/Number_Only_Once/solution.cpp)|Easy|
