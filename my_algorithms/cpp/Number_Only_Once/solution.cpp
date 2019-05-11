@@ -22,6 +22,10 @@
 *  
 **********************************************************************************/
 
+#include<iostream>  //导入库部分 
+#include<vector>
+using namespace std;
+
 class Solution {  // 主要思路就是利用异或去将偶数次出现的数去掉 
 public:
     int singleNumber(vector<int>& nums) {
@@ -32,3 +36,19 @@ public:
         return ans;
     }
 };
+
+int main(){
+	int ans;  //接收结果值 
+	Solution s;  //声明解决方案 
+	
+	int nums[]={3,2,3}; //输入处理 
+	vector<int> v;
+	for(int i=0;i<sizeof(nums)/sizeof(nums[0]);i++){
+		v.push_back(nums[i]);
+	}
+	
+	ans=s.singleNumber(v);  //算法执行 
+	cout<<ans<<endl;
+	
+	return 0;
+}

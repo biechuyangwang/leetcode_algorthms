@@ -1,20 +1,22 @@
-LeetCode
+﻿LeetCode
 ========
 
 ### LeetCode Algorithm
 1. some interview
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/261/before-you-start/1106/)| [C++](./my_algorithms/cpp/Number_Only_Once/solution.cpp)|Easy|
+| # | Title | Solution | Difficulty | description |
+|---| ----- | -------- | ---------- | ----------- |
+|1|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/261/before-you-start/1106/)| [C++](./my_algorithms/cpp/Number_Only_Once/solution.cpp)|Easy|异或运算|
 
 2. my solution 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./my_algorithms/cpp/Two_Sum/Two_Sum.cpp)|Easy|
-|2|[Add_Two Numbers](https://leetcode.com/problems/add-tow-numbers/)| [C++](./my_algorithms/cpp/Add_Two_Numbers/Add_Two_Numbers.cpp)|Easy|
+|7|[Reverse_Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./my_algorithms/cpp/Reverse_Integer/Reverse_Integer.cpp)|Easy|
 |3|[Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./my_algorithms/cpp/Longest_Substring_Without_Repeating_Characters.cpp)|Easy|
+|2|[Add_Two Numbers](https://leetcode.com/problems/add-tow-numbers/)| [C++](./my_algorithms/cpp/Add_Two_Numbers/Add_Two_Numbers.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./my_algorithms/cpp/Two_Sum/Two_Sum.cpp)|Easy|
+
 
 
 
@@ -438,4 +440,5 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Search in a big sorted array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](./algorithms/java/src/searchInABigSortedArray/searchInABigSortedArray.java)|Medium|
 |2|[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/) | [Java](./algorithms/java/src/searchRangeInBinarySearchTree/searchRangeInBinarySearchTree.java)|Medium|
+
 
